@@ -1,0 +1,17 @@
+{
+    "name": "Crowdflower",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "^4.15.3",
+        "async": "^2.4.1",
+        "request": "2.34.0",
+        "body-parser": "1.17.2",
+        "csvtojson": "1.1.7",
+        "bluebird": "3.5.0",
+        "request-promise": "4.2.1"
+    },
+    "main": "./app.js",
+    "scripts": {
+        "start": "node app.js"
+    }
+}

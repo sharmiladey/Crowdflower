@@ -1,0 +1,9 @@
+Steps to run
+Option 1
+pull the project from github
+node app.js
+
+Option 2
+download the docker image
+docker pull sharmiladey/crowdflower-app:latest
+docker run -t -i -p 5000:5000 crowdflower-app
